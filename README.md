@@ -1,6 +1,6 @@
 # Bayesian Machine Learning project: Stochastic Langevin Dynamics
 
-This repository contains the code for the implementations of the principles of Bayesian Learning via Stochastic Gradient Langevin Dynamics (SGLD), Max Welling and Yee Whye Teh (2011): http://www.icml-2011.org/papers/398_icmlpaper.pdf. 
+This repository contains the code for the implementation of the principles of Bayesian Learning via Stochastic Gradient Langevin Dynamics (SGLD), Max Welling and Yee Whye Teh (2011): http://www.icml-2011.org/papers/398_icmlpaper.pdf. 
 
 It contains 3 jupyter notebooks to describe our experiments on 3 topics involving SGLD:
   - A Bayesian logistic regression with Laplace prior: experiments on 3 data sets, comparison with other Bayesian methods (Symmetric Adaptative Random Walks and Hamiltonian MCMC coded by ourselves).
